@@ -1,0 +1,194 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getEmailData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jialaili/Desktop/opp_with_new_api/src/Anonym/Routing/AnonymRouting.js",
+		"/Users/jialaili/Desktop/macy, interview",
+		"/Users/jialaili/Desktop/jsonp.html",
+		"/Users/jialaili/Desktop/2018/opp/src/General/Email/EmailList/EmailList.js",
+		"/Users/jialaili/Desktop/2018/opp/src/General/Email/EmailDetails/EmailDetails.js",
+		"/Users/jialaili/Desktop/2018/opp/src/General/Email/EmailContainer/SendBoxContainer.js",
+		"/Users/jialaili/Desktop/2018/opp/src/General/Email/Email.js",
+		"/Users/jialaili/Desktop/2018/code/webmd.sfe/server/api/services/AllergyService.js",
+		"/Users/jialaili/Desktop/2018/code/webmd.sfe/server/api/controllers/WebMDRXController.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/templates/jsp/head-tags.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/templates/jsp/body-tags.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/templates/jsp/app-tags.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/webpack-configs/_resolve.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/src/app/infosite-app.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/webpack.deploy.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/public/app/article-2/index.jsp",
+		"/Users/jialaili/Desktop/2018/code/infositer/public/app/configs/fr/infosite-config.json",
+		"/Users/jialaili/Desktop/2018/code/infositer/template.config.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/templates/html/app-tags.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/webpack.deploy-qa.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/package.json",
+		"/Users/jialaili/Desktop/2018/code/infositer/gulpfile.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/src/app/navigation/top-nav-layer-menu.jsx",
+		"/Users/jialaili/Desktop/2018/code/infositer/webpack-configs/index.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/webpack-configs/_module.js",
+		"/Users/jialaili/Desktop/2018/code/infositer/webpack-configs/_plugins.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
